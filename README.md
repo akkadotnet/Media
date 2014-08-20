@@ -12,4 +12,4 @@ Base colors:
 - #8a4141 Stiletto(Red) 
 - #603e3e Tawny Port(Red) 
 - #8e8d8f Taupe Grey(Grey) 
-- #71b392 Acapulco(Green) 
+- #74c097 Silver Tree(Green)  

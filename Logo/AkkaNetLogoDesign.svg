@@ -691,7 +691,7 @@
          id="tspan4166"
          sodipodi:role="line">Font</tspan></text>
     <rect
-       style="opacity:0.53508768;fill:#026f9f;fill-opacity:1;stroke:none;display:inline"
+       style="opacity:1;fill:#026f9f;fill-opacity:1;stroke:none;display:inline"
        id="rect4150"
        width="79.195961"
        height="79.195961"
@@ -703,9 +703,9 @@
        height="79.195961"
        width="79.195961"
        id="rect4158"
-       style="opacity:0.53508768;fill:#424242;fill-opacity:1;stroke:none;display:inline" />
+       style="opacity:1;fill:#424242;fill-opacity:1;stroke:none;display:inline" />
     <rect
-       style="opacity:0.53508768;fill:#31b0f7;fill-opacity:1;stroke:none;display:inline"
+       style="opacity:1;fill:#31b0f7;fill-opacity:1;stroke:none;display:inline"
        id="rect4130"
        width="79.195961"
        height="79.195961"
@@ -717,7 +717,7 @@
        height="79.195961"
        width="79.195961"
        id="rect4142"
-       style="opacity:0.53508768;fill:#0386bf;fill-opacity:1;stroke:none;display:inline" />
+       style="opacity:1;fill:#0386bf;fill-opacity:1;stroke:none;display:inline" />
     <text
        sodipodi:linespacing="125%"
        id="text4132"
